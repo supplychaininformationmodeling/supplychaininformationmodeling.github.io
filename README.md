@@ -6,5 +6,6 @@ Information models are a means to understand and document the essential informat
 to a system, application, or protocol exchange without regard to how that information is represented in actual implementations. 
 Having a clear view of the information required provides clarity regarding the goals that the eventual implementation must satisfy.
 
-## FAQs
+## FAQ
 
+see [FAQ](./FAQ.md)
